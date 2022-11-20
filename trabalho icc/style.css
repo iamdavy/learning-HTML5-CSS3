@@ -1,0 +1,106 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.titulo {
+  text-align: center;
+  font-size: 17.5px;
+  font-weight: 600;
+  width: 500px;
+}
+
+.Container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  text-align: center;
+  font-size: 10px;
+  justify-content: center;
+}
+
+.authors {
+  margin: 0px 3%;
+}
+
+.references1 {
+  font-size: 7px;
+  width: 250px;
+  margin-top: 20px;
+  text-align: justify;
+  line-height: 9px;
+}
+
+.references2 {
+  font-size: 8px;
+  width: 250px;
+  margin-top: 20px;
+  text-align: justify;
+  line-height: 10px;
+}
+
+.text {
+  display: flex;
+  justify-content: center;
+}
+
+.half-text1 {
+  width: 250px;
+  height: 400px;
+  text-align: justify;
+  font-size: 9px;
+}
+
+.half-text2 {
+  width: 250px;
+  height: 400px;
+  text-align: justify;
+  font-size: 9px;
+  margin-left: 15px;
+}
+
+.title-abstract {
+  margin: 10px 0px 3px 0px;
+}
+
+.title-introduction {
+  margin: 25px 0px 3px 0px;
+}
+
+.paragraph {
+  line-height: 10px;
+}
+
+.topic-title {
+  margin: 7px 0px 5px 0px;
+}
+
+.topic {
+  margin: 0px;
+}
+.text2 {
+  display: flex;
+  margin-top: 8%;
+  justify-content: center;
+}
+.referencia2{
+  font-weight: 100;
+  font-size: smaller;
+}
+
+.referencia3{
+  font-weight: 100;
+  font-size: smaller;
+  text-align: right;
+}
+.half-text3 {
+  width: 250px;
+  height: 400px;
+  text-align: justify;
+  font-size: 9px;
+  margin-left: 15px;
+}
+.topic-title2 {
+  margin: 9px 0px 5px 0px;
+}
